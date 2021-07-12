@@ -29,6 +29,8 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_ameno_ipsum: ^1.0.1
+  animated_splash_screen: ^1.1.0
+  page_transition: ^2.0.0
 
 dev_dependencies:
   flutter_test:
